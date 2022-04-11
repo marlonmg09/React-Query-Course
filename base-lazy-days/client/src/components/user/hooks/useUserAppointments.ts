@@ -1,4 +1,3 @@
-import dayjs from 'dayjs';
 import { useQuery } from 'react-query';
 
 import type { Appointment, User } from '../../../../../shared/types';
